@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'pia-2-anobd',
+        'NAME': 'projetointegradorbd',
         'USER': 'root',
         'PASSWORD': '',
         'HOST': 'localhost',
